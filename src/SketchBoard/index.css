@@ -1,0 +1,59 @@
+.bottom-button {
+    position: fixed;
+    bottom: 0.5em;
+    right: 1em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+    outline: none;
+}
+
+.bottom-text {
+    position: fixed;
+    bottom: 0.5em;
+    left: 0.5em;
+    font-weight: 200;
+}
+
+.bottom-button-cancel {
+    position: fixed;
+    bottom: 0.5em;
+    right: calc(10vh + 1.5em);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+    outline: none;
+}
+
+.ant-dropdown-menu-item, .ant-dropdown-menu-submenu-title {
+    font-size: 1.3em;
+    line-height: 1.5em;
+}
+
+.ant-modal-body {
+    padding: 10px;
+}
+
+.ant-dropdown-menu-item > .anticon:first-child, .ant-dropdown-menu-submenu-title > .anticon:first-child, .ant-dropdown-menu-item > span > .anticon:first-child, .ant-dropdown-menu-submenu-title > span > .anticon:first-child {
+    font-size: 1em;   
+}
+
+.Demo__some-network__share-button {
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+.Demo__some-network__share-button:hover:not(:active) {
+    opacity: 0.75;
+}
+
+.Demo__some-network__share-button:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+.ant-drawer-body {
+    align-self: center;
+}
+
+.custom-canvas{
+    max-width: 900px;   
+}
