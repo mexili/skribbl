@@ -1,68 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Skribbl T-Shirts online via free hand drawing on canvas or adding a text. You can also view the skribbl history that highlights the selected skribbl. You can share your T-Shirt on various social media platforms with your friends.
 
-## Available Scripts
+## Screenshots
 
-In the project directory, you can run:
+![Screenshot 2020-07-13 at 4 55 48 AM](https://user-images.githubusercontent.com/22375731/100538794-dad70400-3257-11eb-8aa3-1377c9096b14.png)
+![Screenshot 2020-07-13 at 4 55 33 AM](https://user-images.githubusercontent.com/22375731/100538795-dc083100-3257-11eb-9505-566cbf1ca8ed.png)
+![Screenshot 2020-07-13 at 4 55 23 AM](https://user-images.githubusercontent.com/22375731/100538796-dca0c780-3257-11eb-8d30-f889b7766c11.png)
+![Screenshot 2020-07-13 at 4 54 12 AM](https://user-images.githubusercontent.com/22375731/100538797-dca0c780-3257-11eb-8a46-942ca833c575.png)
+![Screenshot 2020-07-13 at 4 53 52 AM](https://user-images.githubusercontent.com/22375731/100538798-dd395e00-3257-11eb-9147-415a1ddd674b.png)
 
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
