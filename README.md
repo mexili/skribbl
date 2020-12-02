@@ -1,7 +1,13 @@
 Skribbl T-Shirts online via free hand drawing on canvas or adding a text. You can also view the skribbl history that highlights the selected skribbl. You can share your T-Shirt on various social media platforms with your friends.
 
+## Installation
+* Please use your own firebase config for testing and development. More info about that here: https://firebase.google.com/docs/web/setup#node.js-apps
+* `git clone https://github.com/mexili/skribbl.git`
+* `cd skribbl`
+* `npm install`
+* `npm start`
 
-Please use your own firebase config for testing and development. More info about that here: https://firebase.google.com/docs/web/setup#node.js-apps
+
 
 ## Screenshots
 
