@@ -7,6 +7,9 @@ Skribbl T-Shirts online via free hand drawing on canvas or adding a text. You ca
 * `npm install`
 * `npm start`
 
+## Deployment
+Please feel free to use surge for deployments. Go through this link for getting started with surge: https://surge.sh/help/getting-started-with-surge
+
 
 
 ## Screenshots
